@@ -1,0 +1,18 @@
+.item-card{
+    /* background-color:grey; */
+    border: 2px solid black;
+    border-radius: 15px;
+    overflow:hidden;
+}
+.cart-add{
+ width: 100%;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ background-color: orangered;   
+}
+
+.pricing{
+   text-align: left;
+   border-top:1px solid black;
+}
